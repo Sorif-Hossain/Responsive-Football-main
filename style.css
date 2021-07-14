@@ -105,6 +105,28 @@ third section
     padding-right: 40px;
 }
 /* ----------
+scorers list in euro
+--------- */
+.scorer-list{
+    display: flex;
+}
+.scorer img{
+    width: 500px;
+    height: 456px;
+    padding-top: 81px;
+    padding-left: 150px;
+}
+.Goal-scorers{
+    width: 50%;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 100px;
+}
+.Goal-scorers h1{
+    font-size: 45px;
+
+}
+/* ----------
 footer section
 --------------- */
 .footer-item{
